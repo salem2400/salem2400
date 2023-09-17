@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Salem 👋
+## - 🌱 I’m currently learning Web Developer 
 
 <!--
 **salem2400/salem2400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
