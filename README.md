@@ -76,6 +76,11 @@
 
 <br>
 <br>
+<p align="left">
+  <a href="https://twitter.com/salem_samir_1" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/assets/twitter.svg/1200px-assets/twitter.png" alt="Twitter" height="30" />
+  </a>
+</p>
 <br>
 <br>
 <p align="center"><strong>Thanks for visiting ! 😊</strong></p>
