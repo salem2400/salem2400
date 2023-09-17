@@ -156,4 +156,4 @@
 &nbsp;&nbsp;
 </a>
 
-<p><strong>Thanks for visiting ! 😊</strong></p>
+<p align="center"><strong>Thanks for visiting ! 😊</strong></p>
