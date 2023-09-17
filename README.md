@@ -1,5 +1,4 @@
 <p align="center"><a href="https://salem2400.github.io"><img width="80%" alt="Hello, I'm Salem. I'm a self-taught BackEnd developer !" src="./assets/hii.png" /></a></p>
-
 <br />
 
 
