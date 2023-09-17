@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem2400&" alt="salem2400" /></p>
 
-Thanks for visiting my GitHub profile! 😊
+Thanks for visiting ! 😊
