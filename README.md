@@ -1,6 +1,8 @@
-<!-- HTML and CSS for Moving Emoji -->
-<div style="position: relative; animation: wave 2s infinite;">
-  <span style="position: absolute; font-size: 24px;">👋</span>
+<!-- HTML and CSS for Continuously Moving Emoji -->
+<div style="position: relative;">
+  <span style="position: absolute; font-size: 24px; animation: wave 2s infinite;">
+    👋
+  </span>
 </div>
 
 # Welcome to the Profishnole's GitHub Profile 👋
