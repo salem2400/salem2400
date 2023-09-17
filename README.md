@@ -1,8 +1,9 @@
 <p align="center"><a href="https://salem2400.github.io"><img width="80%" alt="Hello, I'm Salem. I'm a self-taught BackEnd developer !" src="./assets/hii.png" /></a></p>
+<h3 align="center">A self-taught BackEnd developer from Egypt</h3>
 <br />
 
 
-- 🌱 I’m currently learning **BackEnd**
+- 🌱 I’m currently learning **Full Stack**
 
 - 💬 Ask me about **anything**
 
