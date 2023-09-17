@@ -18,6 +18,14 @@
 &nbsp;&nbsp;
 </a>
 
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -54,11 +62,77 @@
 </p>
 
 
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salem2400&show_icons=true&locale=en&layout=compact" alt="salem2400" /></p>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salem2400&show_icons=true&locale=en" alt="salem2400" /></p>
 
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem2400&" alt="salem2400" /></p>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
+  <a>
+&nbsp;&nbsp;
+</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
