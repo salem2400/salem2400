@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm a self-taught BackEnd developer</h1>
-<h3 align="center">A self-taught BackEnd developer from Egypt</h3>
-<h3 align="center">                                           </h3>
-<h3 align="center">                                           </h3>
-<h3 align="center">                                           </h3>
+<p align="center"><a href="https://salem2400.github.io"><img width="80%" alt="Hello, I'm Salem. I'm a self-taught BackEnd developer !" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salem2400" alt="salem2400" /></a> </p>
 
