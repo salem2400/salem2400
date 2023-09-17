@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/salem-samir-522014240/">her</a>
+- 📫 How to reach me click  <a href="https://www.linkedin.com/in/salem-samir-522014240/">her</a>
 
 <br>
 <br>
