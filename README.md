@@ -1,44 +1,44 @@
-<p align="center">
-    <img width="80%" alt="Hello, I'm Salem. I do open source!" src="./assets/gh-readme-header.png" />
-</p>
-<br />
+# Welcome to the Profishnole's GitHub Profile 👋
 
-I'm a self-taught passionate BackEnd developer.
+Hi there! I'm Profishnole, a passionate developer who loves open source and coding adventures. I enjoy working on a variety of projects and sharing my knowledge with the community.
 
-**About me**
+## 🚀 About Me
 
-- 💼 BackEnd Engineer at [ALX]((https://www.alxafrica.com/))
+- 🌐 [Website](https://www.example.com)
+- 📫 [Email](mailto:your@email.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 😄 Pronouns: He/Him
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+## 🔧 Technologies & Tools
 
-- 💬 Ask me about anything [here](https://github.com/salem2400/salem2400/issues)
+I'm proficient in a wide range of technologies and tools, including but not limited to:
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- Languages: JavaScript, Python, Java
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL
+- Version Control: Git
+- DevOps: Docker, Kubernetes
+- Cloud Platforms: AWS, Azure
 
+## 🌱 Currently Learning
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+I'm constantly learning and improving my skills. Right now, I'm focused on:
 
-#### Top Repositories
+- Exploring serverless architectures
+- Enhancing my data analysis skills
 
+## 📂 Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+Here are some of the projects I'm proud of:
 
-<br />
-<br />
+1. [Project Name](https://github.com/profishnole/project-name) - Brief description.
+2. [Another Project](https://github.com/profishnole/another-project) - Brief description.
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+Feel free to explore my repositories for more!
+
+## 📫 Contact Me
+
+You can reach out to me through my [email](mailto:your@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile). I'm always open to interesting discussions and collaboration opportunities.
+
+Thanks for visiting my GitHub profile! 😊
