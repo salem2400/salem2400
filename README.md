@@ -7,8 +7,16 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **https://www.linkedin.com/in/salem-samir-522014240/**
+  <a>
+&nbsp;&nbsp;
+</a>
 
-
+  <a>
+&nbsp;&nbsp;
+</a>
+  <a>
+&nbsp;&nbsp;
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
