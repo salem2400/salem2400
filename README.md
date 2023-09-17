@@ -1,3 +1,8 @@
+<!-- HTML and CSS for Moving Emoji -->
+<div style="position: relative; animation: wave 2s infinite;">
+  <span style="position: absolute; font-size: 24px;">👋</span>
+</div>
+
 # Welcome to the Profishnole's GitHub Profile 👋
 
 Hi there! I'm Profishnole, a passionate developer who loves open source and coding adventures. I enjoy working on a variety of projects and sharing my knowledge with the community.
