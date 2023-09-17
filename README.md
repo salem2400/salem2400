@@ -1,5 +1,6 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
+<p align="center">
+    <img width="80%" alt="Hello, I'm Salem. I do open source!" src="./assets/gh-readme-header.png" />
+</p>
 <br />
 
 I'm a self-taught passionate BackEnd developer.
