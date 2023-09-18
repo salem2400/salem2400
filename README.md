@@ -76,12 +76,13 @@
   </p>
 <br>
 <br>
-<br> <strong>Follow me on  👉 </strong>
 <p align="left">
   <a href="https://twitter.com/salem_samir_1" target="_blank">
-        <img src="./twitter.png" alt="Twitter" height="30" />
+    <strong style="display: inline-block; vertical-align: middle;">Follow me on</strong>
+    <img src="./twitter.png" alt="Twitter" height="30" style="display: inline-block; vertical-align: middle; margin-left: 5px;" />
   </a>
 </p>
+
 
 
 </p>
