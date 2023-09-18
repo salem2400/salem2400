@@ -78,6 +78,7 @@
 <br>
 <p align="left">
   <a href="https://twitter.com/salem_samir_1" target="_blank">
+    *Follow me in *
     <img src="./twitter.png" alt="Twitter" height="30" />
   </a>
 </p>
