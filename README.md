@@ -79,7 +79,7 @@
 <br>
 <p align="left">
   <a href="https://twitter.com/salem_samir_1" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/twitter.svg/1200px-twitter.png" alt="Twitter" height="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/twitter.svg/1200px-twitter.svg.png" alt="Twitter" height="30" />
   </a>
 </p>
 <br>
