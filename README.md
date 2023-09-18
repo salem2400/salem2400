@@ -76,7 +76,7 @@
   </p>
 <br>
 <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <strong>Follow me on  👉 </strong>
+<br> <strong>Follow me on  👉 </strong>
 <p align="left">
   <a href="https://twitter.com/salem_samir_1" target="_blank">
         <img src="./twitter.png" alt="Twitter" height="30" />
