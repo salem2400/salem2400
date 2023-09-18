@@ -76,11 +76,12 @@
   </p>
 
 <br>
-<br>
 <p align="left">
   <a href="https://twitter.com/salem_samir_1" target="_blank">
-    <img src="https://abs.twimg.com/responsive-web/web/twitter.png" alt="Twitter" height="30" />
+    <img src="./twitter.png" alt="Twitter" height="30" />
   </a>
+</p>
+
 </p>
 
 <br>
