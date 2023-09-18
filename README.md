@@ -76,15 +76,6 @@
   </p>
 <br>
 <br>
-<p align="left">
-  <a href="https://twitter.com/salem_samir_1" target="_blank">
-    <strong style="display: inline-block; vertical-align: middle;">Follow me on</strong>
-    <img src="./twitter.png" alt="Twitter" height="30" style="display: inline-block; vertical-align: middle; margin-left: 5px;" />
-  </a>
-</p>
-
-
-
 </p>
 
 <br>
