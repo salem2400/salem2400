@@ -76,8 +76,9 @@
   </p>
 
 <p align="left">
+  <strong>Follow me on  👉 </strong>
   <a href="https://twitter.com/salem_samir_1" target="_blank">
-    <strong>Follow me on  Twitter:</strong>
+    <strong>Follow me on  👉 </strong>
     <img src="./twitter.png" alt="Twitter" height="30" />
   </a>
 </p>
