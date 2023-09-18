@@ -74,12 +74,13 @@
     <a href="https://instagram.com/salem_samir_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salem_samir_1" height="30" width="40" /></a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; 
     <a href="https://codeforces.com/profile/salem_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salem_1" height="30" width="40" /></a>
   </p>
+<br>
+<br>
 
 <p align="left">
   <strong>Follow me on  👉 </strong>
   <a href="https://twitter.com/salem_samir_1" target="_blank">
-    <strong>Follow me on  👉 </strong>
-    <img src="./twitter.png" alt="Twitter" height="30" />
+        <img src="./twitter.png" alt="Twitter" height="30" />
   </a>
 </p>
 
