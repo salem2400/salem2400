@@ -11,7 +11,7 @@
 </div>
 <br>
 <br>
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning **full stack**
 
 - 💬 Ask me about **anything**
 
