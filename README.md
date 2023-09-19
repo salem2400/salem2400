@@ -1,7 +1,6 @@
 <p align="center"><a href="https://salem2400.github.io"><img width="80%" alt="Hello, I'm Salem. I'm a self-taught BackEnd developer !" src="./assets/hii.png" /></a></p>
 <h2 align="center">A self-taught BackEnd developer from Egypt</h2>
 <br />
-
 <br>
 <br>
 <div align="center">
@@ -12,16 +11,13 @@
 </div>
 <br>
 <br>
-
 - 🌱 I’m currently learning **Full Stack**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me click  <a href="https://www.linkedin.com/in/salem-samir-522014240/">her</a>
-
 <br>
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -56,12 +52,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-
 <br>
 <br>
 <br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem2400&" alt="salem2400" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salem2400&show_icons=true&locale=en" alt="salem2400" /></p>
@@ -81,9 +74,7 @@
     <a href="https://instagram.com/salem_samir_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salem_samir_1" height="30" width="40" /></a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; 
     <a href="https://codeforces.com/profile/salem_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salem_1" height="30" width="40" /></a>
   </p>
-  
 <br>
 <br>
 <br>
-
 <p align="center"><strong>Thanks for visiting ! 😊</strong></p>
