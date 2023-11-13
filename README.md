@@ -12,7 +12,7 @@
 <br>
 <br>
 
- - 🌱 I’m currently learning **Full Stack**
+ - 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **anything**
 
