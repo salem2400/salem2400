@@ -28,6 +28,11 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
+    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <!-- Add two non-breaking spaces as a separator -->
+  <!-- Add the entry for C++ below -->
+  <a href="https://en.cppreference.com/" target="_blank" rel="noreferrer">
+    <img src="URL_TO_C++_ICON" alt="cplusplus" width="40" height="40"/>
+  </a>
   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
