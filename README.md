@@ -60,11 +60,11 @@
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem2400&" alt="salem2400" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amira403&theme=dark&hide_border=true" alt="Amira403" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salem2400&show_icons=true&locale=en" alt="salem2400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amira403&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Amira403" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salem2400&show_icons=true&locale=en&layout=compact" alt="salem2400" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amira403&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Amira403" /></p>
 <br>
 <br>
 <br>
@@ -82,4 +82,4 @@
 <br>
 <br>
 <br>
-<p align="center"><strong>Thanks for visiting ! 😊</strong></p>
+<p align="center"><strong> </strong>Thanks for visiting ! 😊</strong></p>
