@@ -82,4 +82,4 @@
 <br>
 <br>
 <br>
-<p align="center"><code>&lt;/&gt; Thanks for Visiting 😊 &lt;\/&gt;</code></p>
+<p align="center"><code>&lt;/&gt; Thanks for Visiting 😊 &lt;\&gt;</code></p>
