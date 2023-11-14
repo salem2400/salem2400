@@ -6,9 +6,10 @@
 <div align="center">
   <h2>GitHub Profile Trophies 🏆</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amira403&theme=gruvbox&column=7" alt="Amira403" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Amira403&theme=gruvbox" alt="Amira403" />
   </a>
 </div>
+
 <br>
 <br>
 
