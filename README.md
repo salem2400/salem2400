@@ -3,7 +3,7 @@
 <br />
 <br>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salem2400&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salem2400&theme=high-contrast&bg_color=1d1f21&hide_border=true&height=250" alt="GitHub Activity Graph">
 <br>
 <br>
 <div align="center">
