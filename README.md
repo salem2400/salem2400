@@ -20,6 +20,8 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me click  <a href="https://www.linkedin.com/in/salem-samir-522014240/">her</a>
+<br>
+<br>
 <div align="left">
     <h2>My Interests</h2>
     <ul>
@@ -39,6 +41,9 @@
       </li>
     </ul>
   </div>
+  <br>
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
