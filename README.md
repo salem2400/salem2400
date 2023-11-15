@@ -20,8 +20,25 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me click  <a href="https://www.linkedin.com/in/salem-samir-522014240/">her</a>
-<br>
-<br>
+<div align="left">
+    <h2>My Interests</h2>
+    <ul>
+      <li>Favorite Programming Languages:
+        <ul>
+          <li>C</li>
+          <li>C++</li>
+        </ul>
+      </li>
+      <li>Currently Learning:
+        <ul>
+          <li>Database with SQL</li>
+          <li>Java</li>
+          <li>Concurrent Programming</li>
+          <li>Algorithms</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
