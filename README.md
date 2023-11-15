@@ -3,6 +3,9 @@
 <br />
 <br>
 <br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salem2400&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+<br>
+<br>
 <div align="center">
   <h2>GitHub Profile Trophies 🏆</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -55,8 +58,7 @@
   </a>
 </p>
   </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=in-jun&theme=high-contrast&height=250" alt="GitHub Activity Graph">
-</p>
+  </p>
 <br>
 <br>
 <br>
