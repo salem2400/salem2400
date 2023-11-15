@@ -55,6 +55,7 @@
   </a>
 </p>
   </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=in-jun&theme=high-contrast&height=250" alt="GitHub Activity Graph">
 </p>
 <br>
 <br>
