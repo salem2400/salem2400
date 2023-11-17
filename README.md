@@ -35,9 +35,7 @@
         <ul>
           <li>Database with SQL</li>
           <li>Java</li>
-          <li>Concurrent Programming</li>
-          <li>Algorithms</li>
-        </ul>
+          </ul>
       </li>
     </ul>
   </div>
