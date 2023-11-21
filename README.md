@@ -1,11 +1,3 @@
-<div align="left">
-    <h2>About Me</h2>
-    <p>
-      Hi there! I'm injun, a passionate programmer aspiring to become a backend developer.
-    </p>
-  </div>
-
-
 <p align="center"><a href="https://salem2400.github.io"><img width="80%" alt="Hello, I'm Salem. I'm a self-taught BackEnd developer !" src="./assets/hii.png" /></a></p>
 <h2 align="center">A self-taught BackEnd developer from Egypt</h2>
 <br />
