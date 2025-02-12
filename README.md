@@ -45,8 +45,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.flask.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="filter: invert(1);"/>
   </a>
   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <!-- Add the entry for C below -->
