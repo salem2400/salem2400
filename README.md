@@ -45,7 +45,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.flask.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="filter: brightness(0) saturate(100%) hue-rotate(-50deg) sepia(100%) saturate(600%) brightness(90%);"/>
   </a>
   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <!-- Add the entry for C below -->
