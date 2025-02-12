@@ -92,8 +92,7 @@
     <a href="https://twitter.com/salem_samir_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salem_samir_1" height="30" width="40" /></a>  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  
    <a href="https://www.linkedin.com/in/salem-samir-522014240/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem samir" height="30" width="40" /></a> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-        <a href="https://instagram.com/salem_samir_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salem_samir_1" height="30" width="40" /></a> &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; 
-    <a href="https://codeforces.com/profile/salem_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salem_1" height="30" width="40" /></a>
+      <a href="https://codeforces.com/profile/salem_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salem_1" height="30" width="40" /></a>
   </p>
 <br>
 <br>
