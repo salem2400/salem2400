@@ -15,7 +15,7 @@
 <br>
 <br>
 
- - 🌱 I’m currently learning **Backend**
+ - 🌱 I’m currently learning **Back-end Track**
 
 - 💬 Ask me about **anything**
 
@@ -27,14 +27,14 @@
     <ul>
       <li>Favorite Programming Languages:
         <ul>
-          <li>C</li>
-          <li>C++</li>
+          <li>Java Script</li>
+          <li>Python</li>
         </ul>
       </li>
       <li>Currently Learning:
         <ul>
-          <li>Database with SQL</li>
-          <li>Java</li>
+          <li>Database with SQL </li>
+          <li>JS && Py</li>
           </ul>
       </li>
     </ul>
@@ -44,8 +44,9 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.flask.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+
   </a>
   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <!-- Add the entry for C below -->
